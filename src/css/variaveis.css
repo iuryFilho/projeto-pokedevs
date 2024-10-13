@@ -1,0 +1,22 @@
+:root {
+	--t-70: calc(var(--t10) * -7);
+	--t-50: calc(var(--t10) * -5);
+	--t2: 0.125rem;
+	--t5: calc(var(--t10) * 0.5);
+	--t8: 0.5rem;
+	--t10: 0.625rem;
+	--t12: calc(var(--t10) * 1.2);
+	--t15: calc(var(--t10) * 1.5);
+	--t16: 1rem;
+	--t20: calc(var(--t10) * 2);
+	--t30: calc(var(--t10) * 3);
+	--t40: 2.5rem;
+	--t50: calc(var(--t10) * 5);
+	--t60: calc(var(--t10) * 6);
+	--t70: calc(var(--t10) * 7);
+	--t80: 5rem;
+	--t140: calc(var(--t10) * 14);
+	--t200: calc(var(--t10) * 20);
+	--t300: calc(var(--t10) * 30);
+	--t360: calc(var(--t10) * 36);
+}
